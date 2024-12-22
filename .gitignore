@@ -1,0 +1,29 @@
+# WordPress core files
+/wordpress/
+
+# Configuration files with sensitive data
+wp-config.php
+
+# Log files
+*.log
+
+# Cache files
+*.cache
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
